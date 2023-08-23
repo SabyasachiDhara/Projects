@@ -1,0 +1,12 @@
+SD 
+AOI Selection and polygon creation
+
+1. openstreet map id
+2. copy boundary admin code
+3. go to http://polygons.openstreetmap.fr/index.py
+4. pest the code
+5. doenload WKT, JeoJSON, Poly etc (use https://jsonformatter.org for restructure json)
+6. ** (limit in day) u can use https://mygeodata.cloud/ for convert verious format and plot the boundary
+7. https://products.aspose.app/gis/conversion/geojson-to-shp
+**** this is also good site, and SHP is supported format in gee
+8. upload as zip in gee/assets
